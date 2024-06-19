@@ -1,0 +1,39 @@
+.volcano-list-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    background-color: #d7d7d7;
+  }
+  
+  .volcano-list-container h1 {
+    margin-bottom: 1rem;
+  }
+  
+  .search-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .search-container select {
+    padding: 0.5rem;
+    border: 1px solid #d7d7d7;
+    border-radius: 3px;
+    margin-right: 0.5rem;
+  }
+  
+  .search-container button {
+    padding: 0.5rem 1rem;
+    background-color: #313131;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .search-container button:hover {
+    background-color: #000000;
+  }
+
+  

@@ -1,0 +1,30 @@
+.hero_title {
+    font-size: 40px;
+    margin: 0;
+    font-family: "Merriweather", serif;
+    position: absolute;
+    top: 53%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   }
+                                           
+   .hero_subtitle {
+    font-size: 18px;
+    font-style: italic;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .hero {
+    min-height: 700px;
+    text-align: center;
+    background-image: url("../img/shark_volcano.webp");
+    background-size: cover;
+    color: #000000;
+    font-weight: bold;
+  }
+  
+  
+  
